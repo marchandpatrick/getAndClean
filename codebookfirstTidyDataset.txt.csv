@@ -1,0 +1,19 @@
+index;varCode;type;label;valid range;value indicating missing data;value indicating innaplicable data
+1;tBodyAccmeanX;num;body accelaration mean, X;;;
+2;tBodyAccmeanY;num;body accelaration mean, Y;;;
+3;tBodyAccmeanZ;num;body accelaration mean, Z;;;
+4;tBodyAccstdX;num;body accelaration standard deviation, X;;;
+5;tBodyAccstdY;num;body accelaration standard deviation, Y;;;
+6;tBodyAccstdZ;num;body accelaration standard deviation, Z;;;
+7;tGravityAccmeanX;num;gravity accelaration mean, X;;;
+8;tGravityAccmeanY;num;gravity accelaration mean, Y;;;
+9;tGravityAccmeanZ;num;gravity accelaration mean, Z;;;
+10;tGravityAccstdX;num;gravity accelaration standard deviation, X;;;
+11;tGravityAccstdY;num;gravity accelaration standard deviation, Y;;;
+12;tGravityAccstdZ;num;gravity accelaration standard deviation, Z;;;
+13;tBodyAccJerkmeanX;num;body accelaration jerk mean, X;;;
+14;tBodyAccJerkmeanY;num;body accelaration jerk mean, Y;;;
+15;tBodyAccJerkmeanZ;num;body accelaration jerk mean, Z;;;
+16;tBodyAccJerkstdX;num;body accelaration jerk standard deviation, X;;;
+17;tBodyAccJerkstdY;num;body accelaration jerk standard deviation, Y;;;
+18;tBodyAccJerkstdZ;num;body accelaration jerk standard deviation, Z;;;
