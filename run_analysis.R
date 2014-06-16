@@ -48,7 +48,7 @@ createDataSet<- function(){
   ##
   vectorTrueOrFalse <- rep(c(T),7352)
   trainDataset$newcol <-vectorTrueOrFalse
-  colnames( trainDataset)[563] <- "isTrain"  
+  colnames( trainDataset)[563] <- "isTrain"   
   ## combine the content of both train and test datasets in one dataset named combinedDataset
   ##
   consolidated <- rbind (testDataset,trainDataset)
